@@ -1,0 +1,49 @@
+<html>
+  <head>
+    <link type="text/css" rel="stylesheet" href="css/bootstrap/bootstrap.css"/>
+    <link type="text/css" rel="stylesheet" href="css/bootstrap/bootstrap-responsive.css"/>
+    <link type="text/css" rel="stylesheet" href="fortawesome/css/font-awesome.css">
+    <link type="text/css" rel="stylesheet" href="css/style.css"/>
+   
+    <!--
+    <script src="js/bootstrap.js"></script>
+    <script src="js/bootstrap-dropdown.js"></script>
+    <script src="js/bootstrap-collapse.js"></script>
+    <script src="js/bootstrap-affix.js"></script>
+    <script src="js/bootstrap-button.js"></script>
+    <script src="js/bootstrap-carousel.js"></script>
+    <script src="js/bootstrap-transition.js"></script>
+    <script src="js/bootstrap-alert.js"></script>
+    <script src="js/bootstrap-modal.js"></script>
+    <script src="js/bootstrap-dropdown.js"></script>
+    <script src="js/bootstrap-scrollspy.js"></script>
+    <script src="js/bootstrap-tab.js"></script>
+    <script src="js/bootstrap-tooltip.js"></script>
+    <script src="js/bootstrap-popover.js"></script>
+    <script src="js/bootstrap-button.js"></script>
+    <script src="js/bootstrap-collapse.js"></script>
+    <script src="js/bootstrap-carousel.js"></script>
+    <script src="js/bootstrap-typeahead.js"></script>
+    -->
+
+    <title>Magdalena Lipinska Portfolio</title>
+  </head>
+
+  <body>
+
+    <header class="clearfix" role="banner" id="header">
+      <div class="container">
+        <h1 class="brand">Magdalena Lipińska</h1>
+        <nav role="navigation">
+          <ul class="nav nav-pills">
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+
+
+ </body>
