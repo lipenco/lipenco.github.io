@@ -130,22 +130,21 @@ margin-left: 20px;
 margin-left: -20px;
 }
 
-.social {
-
-overflow: auto;
-float: right;
-margin-top: 40px;
-margin-right: 0px;
+ul.social {
+  margin-top: 30px;
+  float:right;
 }
 
-.social li {
-	margin-right: 20px;
+ul.social li {
+  display: inline-block;
+  margin: 0 6px 0px 0;
 }
 
-.social a:hover{
+ul.social li a {
+  font-size: 16px;
   text-decoration: none;
-  border-bottom-color: black;
 }
+
 
 footer[role="contentinfo"] {
 margin-top: 20px;
@@ -157,3 +156,4 @@ footer[role="contentinfo"] p {
 color: #999;
 margin: 0;
 }
+
