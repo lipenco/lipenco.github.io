@@ -165,8 +165,9 @@ transition: opacity 0.2s linear;
 }
 
 a:hover img {
-filter: alpha(opacity=75);
-opacity: .75;
+filter: alpha(opacity=60);
+opacity: .60;
+
 }
 
 a img {
@@ -177,4 +178,6 @@ height: auto;
 a:hover {
 color: #444;
 }
+
+
 
