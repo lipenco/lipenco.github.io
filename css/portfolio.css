@@ -157,3 +157,24 @@ color: #999;
 margin: 0;
 }
 
+a img {
+zoom: 1;
+-webkit-transition: opacity 0.2s linear;
+-moz-transition: opacity 0.2s linear;
+transition: opacity 0.2s linear;
+}
+
+a:hover img {
+filter: alpha(opacity=75);
+opacity: .75;
+}
+
+a img {
+max-width: 100%;
+height: auto;
+}
+
+a:hover {
+color: #444;
+}
+
