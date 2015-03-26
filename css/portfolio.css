@@ -57,7 +57,7 @@ font-family: 'thin', serif;
 }
 
 .brand {
-	width = 100px; 
+	width = 100px;
 }
 
 .lead {
@@ -67,7 +67,7 @@ line-height: 32px;
 }
 
 strong {
-font-weight: 400;	
+font-weight: 400;
 }
 
 
@@ -210,5 +210,11 @@ a:hover {
 color: #444;
 }
 
+.span12 {
+  width: 100%;
+}
 
-
+#experience .company-name {
+	font-size:18px;
+	font-weight:400;
+}
